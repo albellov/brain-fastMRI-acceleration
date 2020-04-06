@@ -1,0 +1,10 @@
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=10 --model_name=l1_lambda_10
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=50 --model_name=l1_lambda_50
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=100 --model_name=l1_lambda_100
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=150 --model_name=l1_lambda_150
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=200 --model_name=l1_lambda_200
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=250 --model_name=l1_lambda_250
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=300 --model_name=l1_lambda_300
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=350 --model_name=l1_lambda_350
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=400 --model_name=l1_lambda_400
+python train.py --acceleration=8 --epochs=20 --random_subset=1000 --l1_lambda=450 --model_name=l1_lambda_450
