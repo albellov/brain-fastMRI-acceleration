@@ -25,6 +25,6 @@ tar -zxvf path_to_data_from_ya_disk/source_data/ax_t2_single_sampled_x2_train.ta
 
 - Install package.
 ```bash
-cd rain-fastMRI
+cd brain-fastMRI
 pip setup.py install
 ```
