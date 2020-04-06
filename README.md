@@ -1,5 +1,9 @@
 # FastMRI: acceleration MRI procedure using Image-to-Image translation
 
+### Authors:
+```
+Aleksandr Belov, Mariia Kopylova, Miron Kuznetsov, Alexey Pronkin
+```
 
 The Magnetic Resonance Imaging accelerating could be done by taking fewer measurements, it might decrease the MRI time and medical costs. 
 
