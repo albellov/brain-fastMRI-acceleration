@@ -3,7 +3,7 @@
 
 ### Dataset
 ```
-https://disk.yandex.ru/d/bVOlw7W9v2mWeQ.
+https://disk.yandex.ru/d/bVOlw7W9v2mWeQ
 ```
 
 ### Test models
